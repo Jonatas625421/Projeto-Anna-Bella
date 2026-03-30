@@ -14,7 +14,7 @@ Instrução de instalação/Uso do projeto:
 do Projeto, então as telas criadas, serão renderizadas direto na tela do seu
 navegador.
 
-Tecnologias utilizadas: 
+- Tecnologias utilizadas: 
 
 Utilizei basicamente HTML puro com CSS para as estilizações.
 
